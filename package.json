@@ -1,0 +1,25 @@
+{
+  "name": "request-animation-frame",
+  "version": "0.0.0",
+  "description": "requestAnimationFrame polyfill",
+  "scripts": {
+    "precommit": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivaxy/request-animation-frame.git"
+  },
+  "keywords": [
+    "requestAnimationFrame"
+  ],
+  "author": "vivaxy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vivaxy/request-animation-frame/issues"
+  },
+  "homepage": "https://github.com/vivaxy/request-animation-frame#readme",
+  "devDependencies": {
+    "eslint": "^1.10.3",
+    "husky": "^0.10.2"
+  }
+}
